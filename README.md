@@ -1,31 +1,31 @@
 # python-texttable-packages
-##flowchart
+## flowchart
 >Program UAS ini terdiri dari 4 macam program yang tersimpan disebuah package dengan fungsi-fungsi diantaranya Program Penggajian, Penilaian, Pembayaran dan Calculator
 
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/flowchart.jpg"widht="450" height="250" />
 </p>
-##penggajian
+## penggajian
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/gaji.jpg"widht="450" height="250" />
 </p>
 
-##penilaian
+## penilaian
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/nilai.jpg"widht="450" height="250" />
 </p>
 
-##pembayaran
+## pembayaran
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/cmd.jpg"widht="450" height="250" />
 </p>
 
-##calculator
+## calculator
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/cal.jpg"widht="450" height="250" />
 </p>
 
-##main
+## main
 <p align="center">
   <img src="https://github.com/B4mzMutt/python-texttable-packages/blob/master/main.jpg"widht="450" height="250" />
 </p>
